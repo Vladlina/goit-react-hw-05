@@ -1,8 +1,12 @@
 .btn {
-   background-color: orangered;
+   background-color: turquoise;
    padding: 10px;
    color: white;
 }
+
+.btn:hover {
+      background-color: rgb(29, 123, 114);
+   }
 
 .container {
    display: flex;

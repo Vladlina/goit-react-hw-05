@@ -1,5 +1,5 @@
 import css from "./LoadMoreBtn.module.css";
-// import { MdOutlineCloudDownload } from "react-icons/md";
+import { MdOutlineCloudDownload } from "react-icons/md";
 
 export default function LoadMoreBtn({ onClick }) {
   return (
