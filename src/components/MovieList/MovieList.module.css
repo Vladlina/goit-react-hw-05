@@ -1,0 +1,22 @@
+.list {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 50px;
+   list-style: none;
+}
+
+.title {
+   font-size: 10px;
+   color: black;
+   text-align: center;
+}
+
+.release {
+   font-size: 8px;
+   color: black;
+   text-align: center;
+}
+
+.link {
+   text-decoration: none;
+}
